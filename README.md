@@ -6,12 +6,10 @@
 
 <a href="[https://www.linkedin.com/company/86712812/](https://www.linkedin.com/company/86712812/)"><img height="30" src="https://github.com/rladiesparis/RLadiesParis/blob/main/linkedin.png?raw=true"></a> [R-Ladies Paris](https://www.linkedin.com/company/86712812/)
 
-We are R-Ladies Paris, a network of R practitioners in Paris. We are a local chapter of a global open source community promoting gender inclusivity among R practitioners and learners, [R-Ladies Global](https://t.co/7HMQw0VGas).
+We are R-Ladies Paris, a network of R practitioners in Paris. We are a local chapter of a global open-source community promoting gender inclusivity among R practitioners and learners, [R-Ladies Global](https://t.co/7HMQw0VGas).
 
-Our goals are to provide a supportive and encouraging network for R users who identify as female and to promote learning and collaboration in the R community. We are open to anyone interested in programming in R, from experts to novices. Everyone is welcome to join us!
+Our goals are to provide a supportive and encouraging network for women and self-identified minorities and to promote learning and collaboration in the R community. We are open to anyone interested in programming in R, from experts to novices. Everyone is welcome to join us!
 
-👯 We are always open to collaborate on R-related subjects!
+👯 We are always open to collaborating on R-related subjects!
 
 📫 How to reach us: paris@rladies.org
-
-
